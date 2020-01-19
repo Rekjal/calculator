@@ -20,8 +20,3 @@ var add = function(number1, number2) {
   var result = divide(number1, number2);
   alert(result);
 
-  var res = function() {
-      var weight = prompt("wht is your weight?");
-      var height = prompt("what is your heith?");
-        alert (parseInt(weight)*parseInt(height));
-  }
